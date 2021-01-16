@@ -1,4 +1,4 @@
-<h1>Exercícios de Algoritmos e Lógica de Programação do curso Algoritmos e Lógica de Programação na Udemy </h1>
+<h1>Exercícios de Algoritmos e Lógica de Programação do curso <a href="https://www.udemy.com/course/curso-algoritmos-logica-de-programacao/">Algoritmos e Lógica de Programação na Udemy</a> </h1>
 
 <h3>Programa necessário:</h3>
 <ul>
